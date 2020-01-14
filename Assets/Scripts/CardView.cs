@@ -12,13 +12,11 @@ public class CardView : MonoBehaviour
 
     public CardModel[] cards;
 
-    private void OnEnable()
-    {
-
-    }
-
     public void DisplayCard(int card)
     {
-
+        title.text = cards[card].title;
+        description.text = cards[card].description;
+        exhibit.text = cards[card].exhibit;
+        animalImg.sprite = cards[card].animalImg;
     }
 }
