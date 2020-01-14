@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Monkeys
   m_EditorClassIdentifier: 
   title: MONKEYS
-  description: 
-  exhibit: 
+  description: 'Our closest related species on the planet, come take a look at all
+    the varieties of primates from around the world. '
+  exhibit: 'Animals in this exhibit: monkeys, gorillas, baboons. '
   animalImg: {fileID: 21300000, guid: 3dd1d2bc0c548de4cbea5308fe3791ec, type: 3}

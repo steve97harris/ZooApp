@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 142a9476162fd1541bfa6669be005938, type: 3}
-  m_Name: Eagles
+  m_Name: Giant_Beasts
   m_EditorClassIdentifier: 
-  title: EAGLES
-  description: 'Our aerial friends and closest relatives to the ancient dinosaurs
-    from 60 million years ago. '
-  exhibit: 'Animals in this exhibit: Eagles, hawks, parrots, stork. '
-  animalImg: {fileID: 21300000, guid: 6790ca8ea453042469138874bb33f490, type: 3}
+  title: GIANT BEASTS
+  description: Some of the largest animals in the world that walk on all fours.
+  exhibit: 'Animals in this exhibit: Rhinos, elephants, hippos. '
+  animalImg: {fileID: 21300000, guid: bcc5de91bc1a2264aa9d585185a9b6b6, type: 3}

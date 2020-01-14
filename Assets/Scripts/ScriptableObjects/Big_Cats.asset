@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Big_Cats
   m_EditorClassIdentifier: 
   title: BIG CATS
-  description: 
-  exhibit: 
+  description: 'From tiny predators to the largest of the cat family, these beasts
+    roam the plains and capture our hearts. '
+  exhibit: 'Animals in this exhibit: lions, tigers, cheetahs. '
   animalImg: {fileID: 21300000, guid: d8113462a844baa4f847dbfbc9bce42d, type: 3}

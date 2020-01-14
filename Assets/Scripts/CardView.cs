@@ -10,9 +10,14 @@ public class CardView : MonoBehaviour
     public Text exhibit;
     public Image animalImg;
 
-    public CardModel card;
+    public CardModel[] cards;
 
     private void OnEnable()
+    {
+
+    }
+
+    public void DisplayCard(int card)
     {
 
     }
